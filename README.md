@@ -1,4 +1,8 @@
-# Miniguia de Estudos — Python para Iniciantes
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=160&text=%F0%9F%90%8D%20Miniguia%20de%20Estudos%0APython%20para%20Iniciantes&fontSize=30&reversal=true&fontAlign=50&fontAlignY=45&section=header&animation=twinkling&color=0:11998e,100:38ef7d"/>
+</p>
+
 
 ## Sobre o Projeto
 
