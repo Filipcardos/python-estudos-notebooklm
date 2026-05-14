@@ -182,4 +182,4 @@ O projeto permitiu utilizar Inteligência Artificial como ferramenta de apoio ao
 
 ## Autor
 
-Projeto desenvolvido para fins educacionais como parte dos d
+Projeto desenvolvido para fins educacionais como parte dos desafios práticos da DIO.
